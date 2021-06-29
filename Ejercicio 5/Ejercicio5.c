@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	int valor, i=0,cond1=0, cond2=0,cond3=0,cond4=0;
-	
+	int sumador1=0,sumador2=0,sumador3=0,sumador4=0;
 	for(i=0;i<7;i++){
 		printf("Ingrese un valor: ");
 		scanf("%d",&valor);
