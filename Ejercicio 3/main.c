@@ -28,7 +28,7 @@ int main(int argc, char *argv[]) {
 	
 	printf("Los valores positivos son %d\n",sum);	
 	printf("Los valores negativos son %d\n",sum2);
-	printf("Los valores negativos son %d\n",sum3);
+	printf("La cantidad de ceros es: %d\n",sum3);
 
 	return 0;
 }
